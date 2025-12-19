@@ -12,6 +12,8 @@ Created a music streaming app similar to Apple Music, featuring API integration 
 - SDWebImage 
 - SVProgressHUD 
 
+## User Interface
+
 
 ## What I Learned
 
